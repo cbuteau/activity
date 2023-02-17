@@ -15,3 +15,11 @@ But it got no adoption.
 + Think high level API first.
 + Think integration into many systems...requirejs, react, etc.
 
+
+## Names
+
++ A task is run of a RAF mechanism.
++ A job is something that runs in a thread (WebWorkers)
++ A career is a long running job for the life of the application.
+
+
