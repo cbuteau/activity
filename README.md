@@ -1,13 +1,19 @@
-# activity
+# Activity
 
 ## Idea
+
 A rethinking of using WebWorkers.
 
+## Links
+
++ [WebWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Worker)
 
 ## Background
 
 Coding webworkers got me to understand threading in the web.
 But it got no adoption.
+
+As ES6 starts to become adopted in browsers I decided to rewrite concepts from scratch.
 
 ## Concepts
 
