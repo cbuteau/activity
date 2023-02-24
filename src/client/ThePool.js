@@ -13,6 +13,6 @@ class ThePool {
 }
 
 let instance;
-let inst = !instance ? instance = new ActivityDispatcher() : instance;
+let inst = !instance ? instance = new ThePool() : instance;
 
 export default inst;
